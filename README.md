@@ -1,7 +1,11 @@
+
 # RESTAURANT-MENU-APPLICATION
 This project is a minor project completed during the Coding Ninjas course. It involves creating a responsive restaurant menu website using HTML, CSS, Bootstrap, and JavaScript. The website displays a menu with various food items, categorized into starters, mains, desserts, and beverages. Users can filter items based on categories and use a search functionality to find specific dishes.
 
 **TASK :** rceate a responsive Restaurant web application with a Bootstrap-integrated navbar for navigation, search functionality, and filter buttons for categorizing and searching menu items.Tasked with building a Restaurant Web Application using the supplied HTML, CSS, and JavaScript code (starter kit) for the frontend. This app should allow users to view items, filter items through categories and search items through name.
+
+![Screenshot 2024-04-11 221809](https://github.com/Srinidhi-15/RESTAURANT-MENU-APPLICATION/assets/104356841/c475e6d5-55b2-4f0b-8ac2-8c071d2489f6)
+![Screenshot 2024-04-11 221745](https://github.com/Srinidhi-15/RESTAURANT-MENU-APPLICATION/assets/104356841/00bddaaa-e67d-4f47-91b6-2ebec0f9402f)
 
 **Responsive Design:**
 
